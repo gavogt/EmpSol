@@ -38,6 +38,7 @@ namespace EmpSol
             for (int j = 0; j < emp.Count; j++)
             {
                 Console.WriteLine($"The employee name is {emp[j].name} and the employee number is {emp[j].number}");
+
             }
         }
     }
